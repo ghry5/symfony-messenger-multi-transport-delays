@@ -1,6 +1,11 @@
 # symfony-messenger-multi-transport-delays
 A example to reproduce a bug in symfony/messenger
 
+# Start postgres db
+```
+docker-compose up -d
+```
+
 # Run consumer
 
 ```
